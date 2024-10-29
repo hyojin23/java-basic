@@ -26,7 +26,7 @@ public class MusicPlayerMain3 {
 
     static void off(MusicPlayerData data) {
         data.isOn = false;
-        System.out.println("음악 플레이러를 종료합니다");
+        System.out.println("음악 플레이어를 종료합니다");
     }
 
     static void volumeUp(MusicPlayerData data) {
